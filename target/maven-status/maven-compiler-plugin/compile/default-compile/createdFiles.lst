@@ -1,0 +1,14 @@
+com\brasileiras\model\Fornecedor.class
+com\brasileiras\EcommerceApplication.class
+com\brasileiras\model\Cliente.class
+com\brasileiras\model\LancamentoFinanceiro.class
+com\brasileiras\controller\ProdutoController.class
+com\brasileiras\controller\FinanceiroController.class
+com\brasileiras\controller\ClienteController.class
+com\brasileiras\model\LancamentoFinanceiro$TipoLancamento.class
+com\brasileiras\repository\FornecedorRepository.class
+com\brasileiras\model\Produto.class
+com\brasileiras\repository\LancamentoFinanceiroRepository.class
+com\brasileiras\controller\FornecedorController.class
+com\brasileiras\repository\ClienteRepository.class
+com\brasileiras\repository\ProdutoRepository.class
